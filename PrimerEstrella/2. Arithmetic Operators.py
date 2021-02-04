@@ -2,6 +2,8 @@ if __name__ == '__main__':
     a = int(input())
     b = int(input())
 
+
+
     
     mult = a * b
     suma = a  + b
